@@ -18,13 +18,9 @@ Wir bieten ein umfassendes Spektrum an digitalen und technischen Dienstleistunge
 
 - **Individuelle Webapplikationen:** Entwicklung leistungsfähiger Anwendungen mit **Angular, React, Vue.js** und **Node.js**. Skalierbare Backend-Lösungen basierend auf **PHP (Symfony, Laravel)** oder **JavaScript (Express.js, NestJS)**.
 
-- **E-Commerce-Lösungen:** Erstellung von Online-Shops mit **Shopware, WooCommerce, Magento** und maßgeschneiderten Payment- und Logistik-Integrationen.
-
 - **Cloud & Hosting:** Sichere und performante Hosting-Lösungen in der Cloud mit **AWS, Azure, Google Cloud** sowie DevOps-gestützte CI/CD-Pipelines zur Automatisierung von Deployments.
 
 - **API-Entwicklung & Schnittstellenintegration:** Entwicklung und Anbindung von RESTful-APIs, GraphQL-APIs und SOAP-Schnittstellen. Integration von **ERP-, CRM- und PIM-Systemen** wie SAP, Salesforce und Pimcore.
-
-- **Datenanalyse & Tracking:** Implementierung und Optimierung von **Google Analytics, Matomo, Google Tag Manager** und individuellen Tracking-Lösungen zur detaillierten Datenanalyse und Performance-Optimierung.
 
 ## Unsere Projekte
 
