@@ -1,6 +1,6 @@
 # PAGE & PAPER GmbH & Co. KG
 
-![PAGE & PAPER Logo]([https://www.page-and-paper.de/logo.png](https://cdn.prod.website-files.com/5f817b8777a280287fd088ae/650194e7eaeee71931113b88_PAP-Logo_r-1_v-l_cv-green_ct-white_cb-transparent.svg))
+![PAGE & PAPER Logo]([[https://www.page-and-paper.de/logo.png](https://cdn.prod.website-files.com/5f817b8777a280287fd088ae/650194e7eaeee71931113b88_PAP-Logo_r-1_v-l_cv-green_ct-white_cb-transparent.svg)](https://cdn.prod.website-files.com/5f817b8777a280287fd088ae/650194e7eaeee71931113b88_PAP-Logo_r-1_v-l_cv-green_ct-white_cb-transparent.svg))
 
 **Barrwiese 3 · 57627 Hachenburg**  
 **E-Mail:** info@page-and-paper.de  
